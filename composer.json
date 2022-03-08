@@ -1,0 +1,15 @@
+{
+    "name": "debiyach/look",
+    "autoload": {
+        "psr-4": {
+            "Debiyach\\Look\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ömer Faruk GÖL",
+            "email": "omerfarukgol@hotmail.com"
+        }
+    ],
+    "require": {}
+}
